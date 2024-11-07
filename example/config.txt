@@ -1,0 +1,2 @@
+Prefix plugins/VariantCount/example/
+Plugin VariantCount inputfile parameters.vc.txt outputfile variantcount.csv

@@ -1,0 +1,2 @@
+bamfiles	bams/
+sgvcpred	VariantGraph.rds

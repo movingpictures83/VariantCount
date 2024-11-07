@@ -1,0 +1,18 @@
+[updateObject] Validating the updated object ... OK
+N1 complete.
+N2 complete.
+N3 complete.
+N4 complete.
+T1 complete.
+T2 complete.
+T3 complete.
+T4 complete.
+class: SGVariantCounts
+dim: 2 8
+metadata(0):
+assays(6): countsVariant5p countsVariant3p ... countsVariant5pOr3p
+  variantFreq
+rownames: NULL
+rowData names(20): from to ... variantType variantName
+colnames(8): N1 N2 ... T3 T4
+colData names(6): sample_name file_bam ... frag_length lib_size
